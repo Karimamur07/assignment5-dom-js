@@ -94,15 +94,20 @@ Created an interactive list (`<ul>`) with dynamic element creation.
 
 <img width="568" height="204" alt="image" src="https://github.com/user-attachments/assets/20d9f974-ecb0-4ed8-b06b-f9e4b525f21c" />
 
-<img width="600" height="204" alt="image" src="https://github.com/user-attachments/assets/592b4bb3-ebdc-41b2-8335-dc8a19ef3380" />
+<img width="201" height="202" alt="image" src="https://github.com/user-attachments/assets/4f9af992-370a-4f65-93a1-0f269e1b9f64" />
 
-<img width="285" height="110" alt="image" src="https://github.com/user-attachments/assets/0bc20596-3d58-4757-bb9f-bba5fbc3f741" />
+<img width="448" height="146" alt="image" src="https://github.com/user-attachments/assets/5e35a2ee-84d3-4719-8c58-18ec6a083593" />
 
-<img width="295" height="63" alt="image" src="https://github.com/user-attachments/assets/0ea78e38-791c-4e7a-ae6d-537dec5d3cbd" />
+<img width="656" height="462" alt="image" src="https://github.com/user-attachments/assets/29ff24a1-722c-4b7a-b1f9-9e245453b889" />
 
-<img width="477" height="153" alt="image" src="https://github.com/user-attachments/assets/b39ad53c-4cf3-40cb-8f22-a1cd0454c598" />
+<img width="410" height="145" alt="image" src="https://github.com/user-attachments/assets/1fbf283a-9424-49d5-a701-686b6da7692d" />
 
-<img width="458" height="141" alt="image" src="https://github.com/user-attachments/assets/e5a0f071-5b05-4fc7-8ff9-61489eea495e" />
+<img width="405" height="182" alt="image" src="https://github.com/user-attachments/assets/d130adbf-5a22-44ac-865c-d62cacb23323" />
+
+<img width="409" height="135" alt="image" src="https://github.com/user-attachments/assets/928941fb-b504-4a21-b3f4-d69fb8fbc100" />
+
+<img width="454" height="143" alt="image" src="https://github.com/user-attachments/assets/f62c5b25-ab4c-4eaa-b96f-c8ebef354a4b" />
+
 
 
 
