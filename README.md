@@ -46,7 +46,9 @@ The form uses `<label>` tags for accessibility and `id` attributes for DOM manip
 
 <img width="587" height="244" alt="image" src="https://github.com/user-attachments/assets/beb07c28-b22b-4044-b093-76451f54052c" />
 
-<img width="536" height="93" alt="image" src="https://github.com/user-attachments/assets/6711f43e-b570-4e83-bdf5-2c574135abf5" />
+<img width="299" height="543" alt="image" src="https://github.com/user-attachments/assets/a6d41742-e65c-4154-b1b8-b6fcaccf6c0c" />
+
+<img width="685" height="334" alt="image" src="https://github.com/user-attachments/assets/359347e3-45d9-49a9-a56b-6af7433a4af4" />
 
 
 Task 4. Event Listener:
