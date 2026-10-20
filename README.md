@@ -71,9 +71,9 @@ When submitted, the script:
 
 <img width="622" height="322" alt="image" src="https://github.com/user-attachments/assets/73f7dc58-f5ca-41ac-9b68-765f7b505af5" />
 
-<img width="522" height="105" alt="image" src="https://github.com/user-attachments/assets/bb724b95-e4dc-4a59-a0c5-06aa31ee7e33" />
+<img width="628" height="326" alt="image" src="https://github.com/user-attachments/assets/541515f7-1f18-49cb-a6b1-102386766af7" />
 
-<img width="345" height="17" alt="image" src="https://github.com/user-attachments/assets/0efdf3b5-b0a7-43b2-94d7-bd2d52eb15b0" />
+<img width="515" height="43" alt="image" src="https://github.com/user-attachments/assets/9690704d-4e3d-4674-946c-cc35a5719fa6" />
 
 <img width="535" height="148" alt="image" src="https://github.com/user-attachments/assets/39551a9f-5a10-45b7-814a-a93e4b1f3c05" />
 
