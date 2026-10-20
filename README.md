@@ -84,8 +84,8 @@ Part 3: DOM List Manipulation
 Task 5. Creating & Removing Elements
 
 Created an interactive list (`<ul>`) with dynamic element creation.
-- **Add Item:** Uses `document.createElement("li")` and `appendChild()` to safely add new items based on user input. No `innerHTML` is used to prevent XSS vulnerabilities.
-- **Remove Item:** Uses `lastElementChild.remove()` to delete the last item in the list.
+- Add Item: Uses `document.createElement("li")` and `appendChild()` to safely add new items based on user input. No `innerHTML` is used to prevent XSS vulnerabilities.
+- Remove Item: Uses `lastElementChild.remove()` to delete the last item in the list.
 - Includes validation: `.trim()` prevents adding empty items, and an alert is shown if the user tries to remove from an empty list.
 
 <img width="475" height="474" alt="image" src="https://github.com/user-attachments/assets/99335cd0-e49c-4918-a44c-4819130006fc" />
@@ -94,9 +94,9 @@ Created an interactive list (`<ul>`) with dynamic element creation.
 
 <img width="568" height="204" alt="image" src="https://github.com/user-attachments/assets/20d9f974-ecb0-4ed8-b06b-f9e4b525f21c" />
 
-<img width="201" height="202" alt="image" src="https://github.com/user-attachments/assets/4f9af992-370a-4f65-93a1-0f269e1b9f64" />
-
 <img width="448" height="146" alt="image" src="https://github.com/user-attachments/assets/5e35a2ee-84d3-4719-8c58-18ec6a083593" />
+
+<img width="201" height="202" alt="image" src="https://github.com/user-attachments/assets/4f9af992-370a-4f65-93a1-0f269e1b9f64" />
 
 <img width="656" height="462" alt="image" src="https://github.com/user-attachments/assets/29ff24a1-722c-4b7a-b1f9-9e245453b889" />
 
@@ -108,6 +108,24 @@ Created an interactive list (`<ul>`) with dynamic element creation.
 
 <img width="454" height="143" alt="image" src="https://github.com/user-attachments/assets/f62c5b25-ab4c-4eaa-b96f-c8ebef354a4b" />
 
+Design & Styling
+
+Added custom CSS to improve the UI/UX:
+- Centered layout with max-width.
+- Form fields stacked vertically using Flexbox.
+- Interactive buttons with hover effects.
+- Styled dynamic list items with left border accents.
+
+Summary of Work Process
+
+In this assignment, I built a dynamic web page using Vanilla JavaScript, focusing on DOM manipulation and event handling.
+
+Key decisions:
+
+1. No `var`: Followed modern ES6+ standards using only `const` and `let` for better scope management.
+2. Security First: Avoided `innerHTML` to prevent XSS attacks. Used `textContent` for all user-generated output to ensure safety and performance.
+3. Refactoring (DRY): Moved the age calculation logic (Task 2) into a reusable function `displayProfile()`. This function is now called both on page load and on form submit (Task 4), avoiding code duplication.
+4. Dynamic Elements: Used `document.createElement()`, `appendChild()`, and `.remove()` (Task 5) to safely build and delete list items from scratch without touching HTML strings.
 
 
 
