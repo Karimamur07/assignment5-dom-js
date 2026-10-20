@@ -1,6 +1,7 @@
 Karima Mursalimova
 IT-2502
 
+Here is my website: https://karimamur07.github.io/assignment5-dom-js/ 
 
 Part 1: Profile Object, Data Types & Arithmetic
 
